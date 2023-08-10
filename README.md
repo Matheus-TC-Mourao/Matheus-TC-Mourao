@@ -1,7 +1,7 @@
 # Matheus Mourão
 
 ## Sobre Mim
-Olá! 👋 Eu sou Matheus, um entusiasta de desenvolvimento front-end apaixonado por criar interfaces bonitas, funcionais e reponsivas. Com um forte desejo de aprender e crescer, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para entregar experiências de usuário excepcionais.
+Olá! 👋 Eu sou Matheus, um entusiasta de desenvolvimento front-end apaixonado por criar interfaces criativas, funcionais e responsivas. Com um forte desejo de aprender e crescer, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para entregar experiências de usuário excepcionais.
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
 - 🌱 Estou aprofundando mais sobre frameworks front-end, como React, para criar aplicações interativas e dinâmicas.
