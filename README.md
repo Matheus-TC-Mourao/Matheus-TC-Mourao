@@ -8,11 +8,12 @@ Olá! 👋 Eu sou Matheus, um entusiasta de desenvolvimento front-end apaixonado
 - 📚 Sempre estou lendo e estudando sobre design de interfaces, melhores práticas de UX/UI e tendências atuais no mundo do desenvolvimento front-end.
 
 ## Habilidades
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3
+- JavaScript
+- ReactJs
 - Responsive Web Design
-- UI/UX Design básico
 - Versionamento de código com Git
-- Conhecimento em React
+
 
 ## Projetos Destacados
 ### Projeto 1: Ecommerce Shop
