@@ -19,8 +19,8 @@ Olá! 👋 Eu sou Matheus, um entusiasta de desenvolvimento front-end apaixonado
 ### Projeto 1: Ecommerce Shop
 Um site de e-commerce dinâmico desenvolvido com React.js e estilizado com Tailwind CSS, oferecendo uma experiência de compra moderna e interativa.
 
-### Projeto 2: To-Do App
-Um aplicativo de lista de tarefas criado com HTML, CSS e JavaScript. Permite adicionar, marcar como concluídas e remover tarefas. Interface simples e amigável.
+### Projeto 2: Weather App
+Utilizando ReactJs e TailwindCSS, construí um software de previsão do tempo fazendo uso da API OpenWeather.
 
 ### Projeto 3: Pokédex
 Um site contendo cartões de pokémons e suas características. Desenvolvido com React.js e Material UI apresentando um design divertido e intuitivo.
