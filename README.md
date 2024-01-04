@@ -1,17 +1,17 @@
 # Matheus Mourão
 
 ## Sobre Mim
-Olá! 👋 Eu sou Matheus, um entusiasta de desenvolvimento front-end apaixonado por criar interfaces criativas, funcionais e responsivas. Com um forte desejo de aprender e crescer, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para entregar experiências de usuário excepcionais.
+Olá! 👋 Sou o Matheus, um Desenvolvedor Front-end com um forte desejo de aprender e crescer, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para entregar as melhores experiências de usuário.
 
 - 🔭 Atualmente tenho trabalhado em projetos pessoais para aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
 - 🌱 Estou me especializando mais sobre frameworks front-end, como React, para criar aplicações interativas e dinâmicas.
 - 📚 Sempre estou lendo e estudando sobre design de interfaces, melhores práticas de UX/UI e tendências atuais no mundo do desenvolvimento front-end.
 
 ## Habilidades
-- HTML5, CSS3
+- TypeScript
 - JavaScript
 - ReactJs
-- Responsive Web Design
+- React Native
 - Versionamento de código com Git
 
 
@@ -31,6 +31,6 @@ Um site contendo cartões de pokémons e suas características. Desenvolvido com
 - GitHub: [Matheus-TC-Mourao](https://github.com/Matheus-TC-Mourao)
 
 ## Objetivos Futuros
-Estou ansioso para continuar minha jornada no desenvolvimento front-end, expandir e aprofundar meu conhecimento em frameworks como React e aprofundar meu entendimento sobre design centrado no usuário. Minha meta é me tornar um desenvolvedor front-end sólido, capaz de criar experiências web incríveis que cativam os usuários.
+Estou ansioso para continuar minha jornada no desenvolvimento front-end, expandir meus conhecimentos para se tornar um desenvolvedor Full-Stack e aprofundar meu conhecimento em frameworks e meu entendimento sobre design centrado no usuário. Minha meta é me tornar um desenvolvedor com conhecimentos sólidos, capaz de criar experiências web incríveis que cativam os usuários.
 
 Sinta-se à vontade para entrar em contato comigo caso queira colaborar, compartilhar conhecimento ou apenas bater um papo sobre o mundo do desenvolvimento web! 🚀
