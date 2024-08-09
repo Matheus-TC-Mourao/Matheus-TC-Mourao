@@ -3,7 +3,7 @@
 ## Sobre Mim
 Olá! 👋 Sou o Matheus, um Desenvolvedor Front-end com um forte desejo de aprender e crescer, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para entregar as melhores experiências de usuário.
 
-- 🔭 Atualmente tenho trabalhado em projetos pessoais para aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
+- 🔭 Atualmente tenho trabalhado em projetos pessoais para aprimorar minhas habilidades em TypeScript, React e ReactNative.
 - 🌱 Estou me especializando mais sobre frameworks front-end, como React, para criar aplicações interativas e dinâmicas.
 - 📚 Sempre estou lendo e estudando sobre design de interfaces, melhores práticas de UX/UI e tendências atuais no mundo do desenvolvimento front-end.
 
@@ -22,8 +22,6 @@ Um site de e-commerce dinâmico desenvolvido com React.js e estilizado com Tailw
 ### Projeto 2: Weather App
 Utilizando ReactJs e TailwindCSS, construí um software de previsão do tempo fazendo uso da API OpenWeather.
 
-### Projeto 3: Pokédex
-Um site contendo cartões de pokémons e suas características. Desenvolvido com React.js e Material UI apresentando um design divertido e intuitivo.
 
 ## Contato
 - LinkedIn: [Matheus Mourão](https://www.linkedin.com/in/seuperfil/matheus-mour%C3%A3o-13a838208)
