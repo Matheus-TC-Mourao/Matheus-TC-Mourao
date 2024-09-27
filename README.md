@@ -9,7 +9,6 @@ Sou Desenvolvedor de Software, entrei no mundo da programação em 2022 e no mei
 - 💼 Trabalhando como Desenvolvedor de Software na Crocarneiro Software.
 - 🌱 Aprendendo mais sobre NextJs, NodeJs.
 
----
 
 ## 🚀 Minhas Skills
 
@@ -32,7 +31,6 @@ Sou Desenvolvedor de Software, entrei no mundo da programação em 2022 e no mei
 <code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket"/></code>
 
----
 
 
 ## Projetos Destacados
