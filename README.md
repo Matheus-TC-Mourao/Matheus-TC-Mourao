@@ -1,13 +1,13 @@
 ## 👋 Olá, meu nome é Matheus Mourão!
 
 
-Sou Desenvolvedor de Software, entrei no mundo da programação em 2022 e no meio do ano de 2023 me matriculei para o curso de ADS, que logo consegui uma vaga de estágio no qual neste tempo tive um salto enorme em minhas skills e conhecimentos.
+Sou Desenvolvedor de Software, entrei no mundo da programação em 2022 e no meio do ano de 2023 me matriculei para o curso de ADS, que logo consegui uma vaga de estágio no qual neste tempo tive um salto enorme em minhas skills e conhecimentos. <br/>Minha maior qualidade é a sede pelo conhecimento.
 
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UniCesumar.
 - 💼 Trabalhando como Desenvolvedor de Software na Crocarneiro Software.
-- 🌱 Aprendendo mais sobre NextJs, NodeJs.
+- 🌱 Aprendendo mais sobre <b>NextJs, NodeJs</b>.
 
 
 ## 🚀 Minhas Skills
@@ -41,6 +41,9 @@ Um site de e-commerce dinâmico desenvolvido com React.js e estilizado com Tailw
 
 ### Projeto 2: Weather App
 Utilizando ReactJs e TailwindCSS, construí um software de previsão do tempo fazendo uso da API OpenWeather.
+
+### Projeto 3: User Registration
+Sistema de cadastro de usuários utilizando NextJs, NodeJs e MySql.
 
 
 ## Onde me encontrar
