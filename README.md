@@ -43,7 +43,7 @@ Um site de e-commerce dinâmico desenvolvido com React.js e estilizado com Tailw
 Utilizando ReactJs e TailwindCSS, construí um software de previsão do tempo fazendo uso da API OpenWeather.
 
 ### Projeto 3: User Registration
-Sistema de cadastro de usuários utilizando NextJs, NodeJs e MySql.
+Sistema de cadastro de usuários utilizando JavaScript como front e back end, e MySql como banco de dados.
 
 
 ## Onde me encontrar
