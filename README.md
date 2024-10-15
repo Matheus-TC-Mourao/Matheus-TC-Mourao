@@ -1,7 +1,7 @@
 ## 👋 Olá, meu nome é Matheus Mourão!
 
 
-Sou Desenvolvedor de Software, entrei no mundo da programação em 2022 e no meio do ano de 2023 me matriculei para o curso de ADS, que logo consegui uma vaga de estágio no qual neste tempo tive um salto enorme em minhas skills e conhecimentos. <br/>Minha maior qualidade é a sede pelo conhecimento.
+Sou Desenvolvedor de Software, entrei no curso de ADS no ano de 2023, consegui uma oportunidade de estágio no qual neste tempo tive um salto enorme em minhas skills e conhecimentos. <br/>Minha maior qualidade é a sede pelo conhecimento.
 
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
