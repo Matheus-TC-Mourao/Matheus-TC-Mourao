@@ -1,13 +1,12 @@
 ## 👋 Olá, meu nome é Matheus Mourão!
 
 
-Sou Desenvolvedor de Software, entrei no curso de ADS no ano de 2023, consegui uma oportunidade de estágio no qual neste tempo tive um salto enorme em minhas skills e conhecimentos. <br/>Minha maior qualidade é a sede pelo conhecimento.
+Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidade no qual neste tempo tive um salto enorme em minhas skills e conhecimentos. <br/>Minha maior qualidade é a sede pelo conhecimento.
 
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UniCesumar.
 - 💼 Trabalhando como Desenvolvedor de Software na Crocarneiro Software.
-- 🌱 Aprendendo mais sobre <b>NextJs, NodeJs</b>.
 
 
 ## 🚀 Minhas Skills
@@ -18,11 +17,11 @@ Sou Desenvolvedor de Software, entrei no curso de ADS no ano de 2023, consegui u
 <div>
 <img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
 <img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
-<img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img height="32" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCss"/>
 <img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 <img height="32" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"/>
+<img height="32" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs"/>
+<img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
 <img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
@@ -53,5 +52,5 @@ Sistema de cadastro de usuários utilizando JavaScript como front e back end, e 
 
 
 ## Objetivos Futuros
-Estou ansioso para continuar minha jornada no desenvolvimento front-end, expandir meus conhecimentos para se tornar um desenvolvedor Full-Stack e aprofundar meu conhecimento em frameworks e meu entendimento sobre design centrado no usuário. Minha meta é me tornar um desenvolvedor com conhecimentos sólidos, capaz de criar experiências web incríveis que cativam os usuários.
+Estou ansioso para continuar minha jornada no desenvolvimento front-end, expandir meus conhecimentos para se tornar um desenvolvedor Full-Stack e aprofundar meu conhecimento em frameworks e meu entendimento sobre design centrado no usuário. Minha meta é me tornar um desenvolvedor com conhecimentos sólidos, capaz de criar aplicações robustas e de alta performace.
 
