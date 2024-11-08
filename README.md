@@ -6,7 +6,7 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UniCesumar.
-- 💼 Trabalhando como Desenvolvedor de Software na Crocarneiro Software.
+- 💼 Trabalhando como Desenvolvedor Frontend na Crocarneiro Software.
 
 
 ## 🚀 Minhas Skills
@@ -49,8 +49,3 @@ Sistema de cadastro de usuários utilizando JavaScript como front e back end, e 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mour%C3%A3o-13a838208/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmouraotc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheus-TC-Mourao)
-
-
-## Objetivos Futuros
-Estou ansioso para continuar minha jornada no desenvolvimento front-end, expandir meus conhecimentos para se tornar um desenvolvedor Full-Stack e aprofundar meu conhecimento em frameworks e meu entendimento sobre design centrado no usuário. Minha meta é me tornar um desenvolvedor com conhecimentos sólidos, capaz de criar aplicações robustas e de alta performace.
-
