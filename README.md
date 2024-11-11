@@ -6,7 +6,7 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UniCesumar.
-- 💼 Trabalhando como Desenvolvedor Frontend na Crocarneiro Software.
+- 💼 Desenvolvedor Frontend na Crocarneiro Software.
 
 
 ## 🚀 Minhas Skills
