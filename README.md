@@ -36,15 +36,14 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 
 
 ## Projetos Destacados
-### Projeto 1: Ecommerce Shop
-Um site de e-commerce dinâmico desenvolvido com React.js e estilizado com Tailwind CSS, oferecendo uma experiência de compra moderna e interativa.
+### Projeto 1: Chat app
+Um app de chat desenvolvido com o framework Next.js, utilizando o banco de dados Convex e autenticação fornecida pelo Clerk. O projeto também incorpora React Hook Form para gerenciamento eficiente de formulários e Zod para validações robustas.
 
-### Projeto 2: Weather App
-Utilizando ReactJs e TailwindCSS, construí um software de previsão do tempo fazendo uso da API OpenWeather.
+### Projeto 2: Ecommerce App
+Um aplicativo de e-commerce de roupas desenvolvido com React.js e estilizado com Tailwind CSS, utilizando a Context API para gerenciamento de estado.
 
-### Projeto 3: User Registration
-Sistema de cadastro de usuários utilizando JavaScript como front e back end, e MySql como banco de dados.
-
+### Projeto 3: App node testable
+API backend testável e totalmente independente de frameworks, banco de dados e interface.
 
 ## Onde me encontrar
 
