@@ -6,13 +6,13 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 
 - 🔭 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando ADS na UniCesumar.
-- 💼 Desenvolvedor Frontend na Crocarneiro Software.
+- 💼 Desenvolvedor FullStack.
 
 
 ## 🚀 Minhas Skills
 
 
-**Aplicações e dados**
+**Front | Back | DataBase**
 
 <div>
 <img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
