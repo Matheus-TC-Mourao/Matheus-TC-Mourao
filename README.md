@@ -12,7 +12,7 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 ## 🚀 Minhas Skills
 
 
-**Front | Back | DataBase**
+### **Front | Back | DataBase**
 
 <div>
 <img height="32" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
@@ -27,7 +27,7 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 </div>
 
 
-**DevOps**
+### **DevOps**
 
 <code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="BitBucket"/></code>
