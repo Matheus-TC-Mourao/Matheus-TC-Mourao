@@ -36,14 +36,13 @@ Sou Desenvolvedor de Software, cursando ADS desde 2023, consegui uma oportunidad
 
 ## Projetos Destacados
 ### Projeto 1: Chat app
-Um app de chat desenvolvido com o framework Next.js, utilizando o banco de dados Convex e autenticação fornecida pelo Clerk. O projeto também incorpora React Hook Form para gerenciamento eficiente de formulários e Zod para validações robustas.
+Um app de chat desenvolvido com o framework **Next.js**, utilizando o banco de dados **Convex** e autenticação fornecida pelo **Clerk**. O projeto também incorpora **React Hook Form** para gerenciamento eficiente de formulários e **Zod** para validações robustas.
 
 ### Projeto 2: Ecommerce App
-Um aplicativo de e-commerce de roupas desenvolvido com React.js e estilizado com Tailwind CSS, utilizando a Context API para gerenciamento de estado.
+E-commerce de roupas desenvolvido com **React.js** e estilizado com **Tailwind CSS**, utilizando a **Context API** para gerenciamento de estado.
 
-### Projeto 3: App node testable
-API backend testável e totalmente independente de frameworks, banco de dados e interface.
-
+### Projeto 3: API de gerenciamento de estoque
+Este é um projeto backend para gerenciamento de estoque de produtos, desenvolvido com foco em boas práticas de arquitetura, utilizando os princípios de **SOLID** e o padrão **MVC**.
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-mour%C3%A3o-13a838208/)
