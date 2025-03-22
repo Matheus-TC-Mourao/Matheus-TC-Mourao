@@ -44,9 +44,9 @@ Sou um **Desenvolvedor Fullstack** com **experiência profissional**. Atualmente
 ---
 
 ## Projetos Destacados
-### Projeto 1: Chat app
-Um app de chat desenvolvido com o framework **Next.js**, utilizando o banco de dados **Convex** e autenticação fornecida pelo **Clerk**. O projeto também incorpora **React Hook Form** para gerenciamento eficiente de formulários e **Zod** para validações robustas.</br>
-[Repositório](https://github.com/Matheus-TC-Mourao/Chat-App) | [Demonstração](https://chat-app-mt.vercel.app/conversations)  
+### Projeto 1: Gerenciador de Tarefas com Autenticação
+Esta API foi construída para gerenciamento de tarefas, utilizando autenticação para proteger as rotas. O projeto foi desenvolvido com **NestJS** e integra diversas tecnologias como **Prisma, bcrypt, JWT, SQLite, Winston, Health Check e Jest**. Além disso, utiliza **class-validator** para validação de dados.</br>
+[Repositório](https://github.com/Matheus-TC-Mourao/Task.Auth)
 
 ### Projeto 2: Ecommerce App
 E-commerce de roupas desenvolvido com **React.js** e estilizado com **Tailwind CSS**, utilizando a **Context API** para gerenciamento de estado.</br>
