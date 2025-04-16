@@ -18,7 +18,7 @@
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQFGl8BI2wngMg/company-logo_200_200/company-logo_200_200/0/1709429533041/crocarneiro_logo?e=1749081600&v=beta&t=tQGbpeLE8HeUMlYMpkb06hxcF9dXPHKvvX1-c0_H5xA"/>](https://www.linkedin.com/company/crocarneiro/)
 
 
-**Frot-end Developer (Jr)** \
+**Front-end Developer (Jr)** \
 [**Crocarneiro Software Development**](https://www.linkedin.com/company/crocarneiro/) • Contract \
 Linguagens & Tecnologias: `TypesScript`, `React Native`, `React`, `SQLite`, `API REST`\
 <br/>
