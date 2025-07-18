@@ -42,18 +42,19 @@ Linguagens & Tecnologias: `TypesScript`, `React Native`, `React`, `SQLite`, `API
 
 ## Projetos Destacados
 
-### Projeto 1: Gerenciador de Tarefas com Autenticação
+### Gerenciador de Tarefas com Autenticação
+<p><b>API REST</b> construída com <b>NestJS + Prisma + JWT + SQLite</b> para simular uma plataforma de cursos online para empresas que desejam contratar os serviços da Mastercode. Mais detalhes sobre <b>regras de negócio e lógica</b> utilizada estão disponíveis no link abaixo.<p/>
+
+[Repositório](https://github.com/Matheus-TC-Mourao/course.plataform)
+
+### Gerenciador de Tarefas com Autenticação
 <p>Esta API foi construída para gerenciamento de tarefas, utilizando autenticação para proteger as rotas. O projeto foi desenvolvido com <b>NestJS</b> e integra diversas tecnologias como <b>Prisma, bcrypt, JWT, SQLite, Winston, Health Check e Jest</b>. Além disso, utiliza <b>class-validator</b> para validação de dados.</p>
 
 [Repositório](https://github.com/Matheus-TC-Mourao/Task.Auth)
 
-### Projeto 2: API de gerenciamento de estoque
+### API de gerenciamento de estoque
 <p>Uma API backend desenvolvida com <b>Node.js</b> e <b>Express</b>, utilizando <b>Prisma ORM</b> e banco de dados <b>SQLite</b>. Segue os princípios de <b>SOLID</b> e o padrão <b>MVC</b> para operações de compra, venda e listagem de produtos.</p>
 
 [Repositório](https://github.com/Matheus-TC-Mourao/API-Node) 
 
-### Projeto 3: Auth JWT
-<p>Esta <b>API REST</b> foi desenvolvida para fornecer um sistema de autenticação e gerenciamento de usuários, construída em <b>Node.js</b> utilizando <b>Express, MongoDB e JWT</b> para autenticação. Ela oferece uma estrutura escalável e de fácil manutenção.</p>
-
-[Repositório](https://github.com/Matheus-TC-Mourao/Auth.Backend) 
 
