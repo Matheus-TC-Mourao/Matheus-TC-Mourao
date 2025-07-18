@@ -42,7 +42,7 @@ Linguagens & Tecnologias: `TypesScript`, `React Native`, `React`, `SQLite`, `API
 
 ## Projetos Destacados
 
-### Gerenciador de Tarefas com Autenticação
+### Mastercode API
 <p><b>API REST</b> construída com <b>NestJS + Prisma + JWT + SQLite</b> para simular uma plataforma de cursos online para empresas que desejam contratar os serviços da Mastercode. Mais detalhes sobre <b>regras de negócio e lógica</b> utilizada estão disponíveis no link abaixo.<p/>
 
 [Repositório](https://github.com/Matheus-TC-Mourao/course.plataform)
