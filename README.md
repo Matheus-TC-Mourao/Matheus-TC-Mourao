@@ -40,21 +40,4 @@ Linguagens & Tecnologias: `TypesScript`, `React Native`, `React`, `SQLite`, `API
 <code><img height="25" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></code>
 
 
-## Projetos Destacados
-
-### Mastercode API
-<p><b>API REST</b> construída com <b>NestJS + Prisma + JWT + SQLite</b> para simular uma plataforma de cursos online para empresas que desejam contratar os serviços da Mastercode. Mais detalhes sobre <b>regras de negócio e lógica</b> utilizada estão disponíveis no link abaixo.<p/>
-
-[Repositório](https://github.com/Matheus-TC-Mourao/course.plataform)
-
-### Gerenciador de Tarefas com Autenticação
-<p>Esta API foi construída para gerenciamento de tarefas, utilizando autenticação para proteger as rotas. O projeto foi desenvolvido com <b>NestJS</b> e integra diversas tecnologias como <b>Prisma, bcrypt, JWT, SQLite, Winston, Health Check e Jest</b>. Além disso, utiliza <b>class-validator</b> para validação de dados.</p>
-
-[Repositório](https://github.com/Matheus-TC-Mourao/Task.Auth)
-
-### API de gerenciamento de estoque
-<p>Uma API backend desenvolvida com <b>Node.js</b> e <b>Express</b>, utilizando <b>Prisma ORM</b> e banco de dados <b>SQLite</b>. Segue os princípios de <b>SOLID</b> e o padrão <b>MVC</b> para operações de compra, venda e listagem de produtos.</p>
-
-[Repositório](https://github.com/Matheus-TC-Mourao/API-Node) 
-
 
